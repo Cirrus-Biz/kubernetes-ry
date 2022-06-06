@@ -24,4 +24,6 @@ spec:
                 name: user
                 port:
                   number: 8070
-    
+
+
+# change endpoint entry
